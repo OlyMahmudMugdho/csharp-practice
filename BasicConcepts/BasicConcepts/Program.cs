@@ -5,25 +5,44 @@ using System;
 class Program
 {
     static void Main(string[] args){
+
+        /* 
+        
+        *** This is a very basic use case
+        
         Console.WriteLine("Hello World");
         
         Console.WriteLine("max value of int is {0}",int.MaxValue);
         Console.WriteLine("min value of int is {0}",int.MinValue);
 
-        Console.WriteLine("max value of long is {0}",long.MaxValue);
-        Console.WriteLine("min value of long is {0}",long.MinValue);
+        Console.WriteLine("What is your name");
+        string name = Console.ReadLine();
+        Console.WriteLine("Hello {0}",name);  
 
-        Console.WriteLine("max value of float is {0}",float.MaxValue);
-        Console.WriteLine("min value of float is {0}",float.MinValue);
+        Console.WriteLine("Enter your salary : ");
+        int salary = Convert.ToInt32(Console.ReadLine());
+        Console.WriteLine("Salary {0:c}", salary); */
 
-        Console.WriteLine("max value of double is {0}",double.MaxValue);
-        Console.WriteLine("min value of double is {0}",double.MinValue);
-
-        Console.WriteLine("max value of decimal is {0}",decimal.MaxValue);
-        Console.WriteLine("min value of decimal is {0}",decimal.MinValue);
-
-
+        /* 
         
+        *** Conditionals and Booleans ***
+
+        bool canVote = false;
+       
+        Console.WriteLine("What is your age?");
+
+        int age = int.Parse(Console.ReadLine());
+
+        if(age >= 18){
+            canVote = true;
+        }
+
+        if(canVote) {
+            Console.WriteLine("You can vote");
+        }
+        else {
+            Console.WriteLine("You are a kid");
+        } */
 
     }
 }

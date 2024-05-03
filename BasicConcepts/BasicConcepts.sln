@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicConcepts", "BasicConcepts\BasicConcepts.csproj", "{71CB8C17-9DD7-4128-8B5C-DDA08B0F1C30}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "oop-practice", "..\oop-practice\oop-practice.csproj", "{2529EEFF-CB98-49AA-891F-94159F18DF5A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{71CB8C17-9DD7-4128-8B5C-DDA08B0F1C30}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71CB8C17-9DD7-4128-8B5C-DDA08B0F1C30}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71CB8C17-9DD7-4128-8B5C-DDA08B0F1C30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2529EEFF-CB98-49AA-891F-94159F18DF5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2529EEFF-CB98-49AA-891F-94159F18DF5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2529EEFF-CB98-49AA-891F-94159F18DF5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2529EEFF-CB98-49AA-891F-94159F18DF5A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

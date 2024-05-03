@@ -6,10 +6,11 @@ namespace OOP
     class Program
     {
         public static void Main(string[] args){
-            Animal animal = new Animal();
-            animal.Type = "cat";
-            animal.Legs = 4;
-            Console.WriteLine($"{animal.Type} has {animal.Legs} legs");
+            Animal bird = new Animal();
+            bird.Type = "Chicken";
+            bird.Legs = 2;
+            Console.WriteLine($"{bird.Type} has {bird.Legs} legs");
+            
         }
     }
 }

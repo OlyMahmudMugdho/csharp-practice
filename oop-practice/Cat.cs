@@ -8,4 +8,8 @@ class Cat : Animal
         get { return name; }
         set { name = value; }
     }
+
+    public void sound(){
+        Console.WriteLine("meow");
+    }
 }

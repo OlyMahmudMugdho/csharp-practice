@@ -1,5 +1,6 @@
 ﻿using System;
 using Animals;
+using Vehicles;
 
 namespace OOP
 {
@@ -21,6 +22,11 @@ namespace OOP
 
             bird.sound();
             cat.sound();
+
+            Car car = new Car();
+
+            car.Start();
+
         }
     }
 }

@@ -8,7 +8,6 @@ namespace Vehicles
             Type = "Car";
             Name = "Mercedes";
             Engine = new CarEngine();
-
         }
 
         public override void Start() {

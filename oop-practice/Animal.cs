@@ -14,5 +14,9 @@ namespace Animals
             get { return legs; }
             set { legs = value; }
         }
+
+        public void sound(){
+            Console.WriteLine("animal sound");
+        }
     }
 }

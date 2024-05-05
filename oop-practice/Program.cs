@@ -18,6 +18,9 @@ namespace OOP
             Console.WriteLine($"{bird.Type} has {bird.Legs} legs");
             Console.WriteLine($"{cat.Name} is a {cat.Type} cat");
             Console.WriteLine($"{cat.Name} has {cat.Legs} short  legs");
+
+            bird.sound();
+            cat.sound();
         }
     }
 }

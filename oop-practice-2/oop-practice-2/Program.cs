@@ -22,6 +22,10 @@ class Code
         
         cat.DisplayInfo();
         spider.DisplayInfo();
+        
+        Console.WriteLine($"cat name is {cat.Name}");
+        cat.Name = "Kiki";
+        Console.WriteLine($"cat name changed to {cat.Name}");
     }
 }
 

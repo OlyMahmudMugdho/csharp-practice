@@ -2,8 +2,8 @@ namespace OopTwo;
 
 public class Animal
 {
-    public string Name;
-    public int Legs;
+    public string Name { get; set; }
+    public int Legs { get; set; }
 
     public void DisplayInfo()
     {

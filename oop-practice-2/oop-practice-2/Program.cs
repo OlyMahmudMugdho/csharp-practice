@@ -26,6 +26,7 @@ class Code
         Console.WriteLine($"cat name is {cat.Name}");
         cat.Name = "Kiki";
         Console.WriteLine($"cat name changed to {cat.Name}");
+        Console.WriteLine("cat info - {0}", cat.catInfo());
     }
 }
 

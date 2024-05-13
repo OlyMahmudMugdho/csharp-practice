@@ -6,7 +6,22 @@ class Code
 {
     public static void Main(string[] args)
     {
-        Console.WriteLine("hello");
+        Cat cat = new Cat()
+        {
+            Name = "Tom",
+            Legs = 4,
+            isDomestic = true
+        };
+
+        Spider spider = new Spider()
+        {
+            Name = "some name",
+            Legs = 8,
+            isPoisonous = true
+        };
+        
+        cat.DisplayInfo();
+        spider.DisplayInfo();
     }
 }
 

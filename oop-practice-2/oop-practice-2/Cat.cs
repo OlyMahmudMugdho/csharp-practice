@@ -8,4 +8,9 @@ public class Cat : Animal
     {
         Console.WriteLine($"meow.... Name : {this.Name}, Legs : {this.Legs}");
     }
+
+    public string catInfo()
+    {
+        return $"Name : {this.Name}; Legs : {this.Legs}";
+    }
 }

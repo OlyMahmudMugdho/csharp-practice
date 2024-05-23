@@ -1,8 +1,8 @@
 ﻿namespace Hello;
-using System;
+using static System.Console;
 class Program
 {
     static void Main(string[] args){
-        Console.WriteLine("Hello");
+        WriteLine("Hello");
     }
 }

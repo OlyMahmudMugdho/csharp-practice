@@ -12,4 +12,8 @@
     <PackageReference Include="System"/>
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Console" static="true"/>
+  </ItemGroup>
+
 </Project>

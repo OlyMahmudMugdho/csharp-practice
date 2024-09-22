@@ -1,6 +1,6 @@
 ﻿class Methods
 {
-    public static void showMessage(string message)
+    public static void showMessage(string message = "Hello")
     {
         Console.WriteLine(message);
     }
@@ -12,6 +12,7 @@
 
     public static void Main(string[] args)
     {
+        showMessage();
         showMessage("Good Morning");
         Console.WriteLine(sum(7,8));
     }

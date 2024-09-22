@@ -1,0 +1,14 @@
+D:\210614\csharp\FieldAndProperty\bin\Debug\net8.0\FieldAndProperty.exe
+D:\210614\csharp\FieldAndProperty\bin\Debug\net8.0\FieldAndProperty.deps.json
+D:\210614\csharp\FieldAndProperty\bin\Debug\net8.0\FieldAndProperty.runtimeconfig.json
+D:\210614\csharp\FieldAndProperty\bin\Debug\net8.0\FieldAndProperty.dll
+D:\210614\csharp\FieldAndProperty\bin\Debug\net8.0\FieldAndProperty.pdb
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.AssemblyInfoInputs.cache
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.AssemblyInfo.cs
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.csproj.CoreCompileInputs.cache
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.dll
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\refint\FieldAndProperty.dll
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.pdb
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\FieldAndProperty.genruntimeconfig.cache
+D:\210614\csharp\FieldAndProperty\obj\Debug\net8.0\ref\FieldAndProperty.dll

@@ -1,0 +1,14 @@
+D:\210614\csharp\InputTaking\InputTaking\bin\Debug\net8.0\InputTaking.exe
+D:\210614\csharp\InputTaking\InputTaking\bin\Debug\net8.0\InputTaking.deps.json
+D:\210614\csharp\InputTaking\InputTaking\bin\Debug\net8.0\InputTaking.runtimeconfig.json
+D:\210614\csharp\InputTaking\InputTaking\bin\Debug\net8.0\InputTaking.dll
+D:\210614\csharp\InputTaking\InputTaking\bin\Debug\net8.0\InputTaking.pdb
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.GeneratedMSBuildEditorConfig.editorconfig
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.AssemblyInfoInputs.cache
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.AssemblyInfo.cs
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.csproj.CoreCompileInputs.cache
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.dll
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\refint\InputTaking.dll
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.pdb
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\InputTaking.genruntimeconfig.cache
+D:\210614\csharp\InputTaking\InputTaking\obj\Debug\net8.0\ref\InputTaking.dll

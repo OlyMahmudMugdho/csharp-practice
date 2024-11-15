@@ -7,7 +7,7 @@ class Filtering
         List<int> nums = new List<int>() { 5,3,4,9,2};
         var largeNums =  nums.Where(num => num >= 4);
 
-        foreach (int num in largeNums)
+        foreach (var num in largeNums)
         {
             Console.Write($"{num} ");
         }

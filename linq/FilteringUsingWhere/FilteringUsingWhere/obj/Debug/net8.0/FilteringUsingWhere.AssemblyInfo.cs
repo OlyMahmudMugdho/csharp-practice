@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FilteringUsingWhere")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56a342e831b0a84dd858efac82c65dd4507339af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6842ef2f34dc2bd467dfab7704251fe7e215e1ce")]
 [assembly: System.Reflection.AssemblyProductAttribute("FilteringUsingWhere")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FilteringUsingWhere")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

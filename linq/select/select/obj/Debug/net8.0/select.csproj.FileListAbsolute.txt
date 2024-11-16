@@ -1,0 +1,15 @@
+D:\codes\csharp-practice\linq\select\select\bin\Debug\net8.0\select.exe
+D:\codes\csharp-practice\linq\select\select\bin\Debug\net8.0\select.deps.json
+D:\codes\csharp-practice\linq\select\select\bin\Debug\net8.0\select.runtimeconfig.json
+D:\codes\csharp-practice\linq\select\select\bin\Debug\net8.0\select.dll
+D:\codes\csharp-practice\linq\select\select\bin\Debug\net8.0\select.pdb
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.AssemblyInfoInputs.cache
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.AssemblyInfo.cs
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.csproj.CoreCompileInputs.cache
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.sourcelink.json
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.dll
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\refint\select.dll
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.pdb
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\select.genruntimeconfig.cache
+D:\codes\csharp-practice\linq\select\select\obj\Debug\net8.0\ref\select.dll
